@@ -1,3 +1,14 @@
+baseURL = "http://localhost:1313/"
+languageCode = "it-it"
+title = "Il mio blog"
+theme = "PaperMod"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  ShowReadingTime = true
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
