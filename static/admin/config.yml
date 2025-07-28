@@ -1,6 +1,6 @@
 backend:
   name: github
-repo: femodena/pensieri-a-margine
+repo: "femodena/pensieri-a-margine"
   branch: main          # il tuo branch di produzione
 auth_type: pkce
 
