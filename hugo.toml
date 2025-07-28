@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://pensieri-a-margine.netlify.app"
 languageCode = "it-it"
 title = "Il mio blog"
 theme = "PaperMod"
@@ -13,3 +13,5 @@ mainSections = ["posts"]
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+canonifyURLs = true
