@@ -1,7 +1,7 @@
 ---
 title: "Ciao mondo"
 date: 2025-07-28
-draft: true
+draft: false
 tags: ["diario", "intro"]
 ---
 
