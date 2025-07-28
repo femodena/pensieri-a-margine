@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: "femodena/pensieri-a-margine"   # utente/repo
+  name: git-gateway
   branch: main
-  auth_type: pkce
-  app_id: "Ov23linxxMAHR8KGHsg8"
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
